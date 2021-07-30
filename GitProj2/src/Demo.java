@@ -5,5 +5,10 @@ public class Demo {
 	{
 		System.out.println("Hello GIT");
 		System.out.println("Hello GIT2");
+	}	
+		public void m1()
+		{
+			
+		
 	}
 }
