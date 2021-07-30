@@ -11,4 +11,8 @@ public class Demo {
 			
 		System.out.println("Hii");
 	}
+		public void m2()
+		{
+			System.out.println("Namaskar");
+		}
 }
